@@ -9,8 +9,8 @@ Modifying the dongle for better heat dissipation resulted in a slower temperatur
 Modifying the dongle further with active ventilation resulted in exceedingly good results, the test reached equilibrium after 40min with an average temperature of 52.2°C (125.96°F) and a peak temperature of just 54.8°C (130.64°F).
 
 As this is an independent test, done not even close to lab environment, I take no responsibility or liability if something gets damaged, someone gets hurt or otherwise. These results are not meant to be used in any official report unless otherwise agreed upon with me Julian / Keigun.
-For further license information visit this link. 1
+For further license information visit this link: https://github.com/Keigun-Spark/Tundra-Labs-Hardware-Mods/blob/main/LICENSE
 
-You can download the PDF with my results here. 1
+You can download the PDF with my results here: https://github.com/Keigun-Spark/Tundra-Labs-Hardware-Mods/blob/main/Published%20documents/Tundra%20Labs%20dongle%20thermals.pdf
 
 Guides for the modification of the dongle will follow within the next few days.
