@@ -1,0 +1,12 @@
+So, things are going different than planned because I mistook the case of the dongle as all plastic, which it is not.
+
+
+However, this heat sink was not bare metal, as you can see from previous images. It kind of looks like it was painted, I am not so sure.
+
+Anyways I sanded it off and will order a new 2mm thermal pad. I will re run some tests with the new pad and bare metal to see how different the outcome will be before I continue with different modifications.
+
+I will publish my measurements once all are done.
+
+Right now I can say, you can to 100% use the SW7 dongle while laying it on the table, where there is enough air circulation. At an average room temperature of 21.7°C (71.06°F), with 52% humidity, over a 30 minute test run, the dongle reached an average temperature of 36.3°C (97.34°F) with a hot spot of 48.5°C (119.3°F). This is well below the maximum operating temperature and will do no harm to the dongle.
+
+You should refrain from using the dongle inside the Valve Index’s frunk. During the test the frunk temperature reached 68.2°C (154.76°F) which is just 1.8K (Kelvin) below the USB hubs operating temperature, of 70°C (158°F). While the dongle itself reached a peak hot spot of 65.7°C (150,26°F), or 4.3K (Kelvin) below the USB hubs operating temperature.
